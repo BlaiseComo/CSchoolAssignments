@@ -6,6 +6,9 @@ int main(void) {
     // Test code to specify how typecasting works
     // In this case, the ascii decimal value of '2' is 50, so subtracting it by 48 converts it to 2
     // This works for all other char integers as well
+
+    // As a heads up, there are significantly easier ways to turn a string into a integer than typecasting using functions already made by others
+
     //char x = (int)('2') - 48;
 
     //printf("%d\n", x);
