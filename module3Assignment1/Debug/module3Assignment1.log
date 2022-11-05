@@ -1,0 +1,8 @@
+﻿  source.c
+C:\Users\Apex Gaming PCs\Documents\module3Assignment1\source.c(23,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Apex Gaming PCs\Documents\module3Assignment1\source.c(88,48): warning C4047: '=': 'char' differs in levels of indirection from 'const char *'
+C:\Users\Apex Gaming PCs\Documents\module3Assignment1\source.c(91,51): warning C4047: '=': 'char' differs in levels of indirection from 'const char *'
+C:\Users\Apex Gaming PCs\Documents\module3Assignment1\source.c(102,19): warning C4047: 'function': 'char (*)[2]' differs in levels of indirection from 'char [5][2][10]'
+C:\Users\Apex Gaming PCs\Documents\module3Assignment1\source.c(102,15): warning C4024: 'containsPair': different types for formal and actual parameter 1
+C:\Users\Apex Gaming PCs\Documents\module3Assignment1\source.c(106,24): warning C4028: formal parameter 1 different from declaration
+  module3Assignment1.vcxproj -> C:\Users\Apex Gaming PCs\Documents\module3Assignment1\Debug\module3Assignment1.exe
